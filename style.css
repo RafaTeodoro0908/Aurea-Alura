@@ -1,0 +1,19 @@
+body{
+    font-family: 'Chakra Petch', sans-serif;
+    color: #6e859f;
+    margin: 0, 32, 0, 32;
+}
+header{
+        --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * .5);
+    padding-left: calc(var(--bs-gutter-x) * .5);
+    margin-right: auto;
+    margin-left: auto;
+}
+#eu{
+    color: #c92bfc;
+    font-weight: 700;
+    font-size: 1,25rem;
+}
